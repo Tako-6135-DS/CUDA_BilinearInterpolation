@@ -1,5 +1,5 @@
-## PyCUDA bilateral filter
-Bilinear Interpolation - Comparison of the speed of bilateral filtering on the CPU and GPU.
+## CUDA bilateral interpolation
+Bilinear Interpolation - Comparison of the speed of bilateral interpolation on the CPU and GPU.
 Image size is MxN
 PyCharm 2020 and Cuda Toolkit 10
 
